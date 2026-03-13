@@ -1,2 +1,2 @@
-# CC-TaskTest
-Claude codeでのGithubのタスク取得テスト
+# CC-CorporateForm
+会社の問い合わせフォーム
